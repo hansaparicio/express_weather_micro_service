@@ -10,7 +10,8 @@ Test Bondacom JavaScript
 Para iniciar el microservicio se debe inicializar mediante node.js, para ello situe el terminal en el path raiz de la 
 aplicacion; posterio a ello ejecute el comando
 
-```npm install
+```
+npm install
    node app.js 
 
 ```
